@@ -4,11 +4,11 @@
 #### このプロジェクトは、AI分析、テキスト生成、論理的推論などの能力を組み合わせ、重要な視点から中国共産党の政策決定と中国人の日常的な行動運営の論理を分析します。
 
 
-##### 分析领域 
+### 分析领域 
 ###### 1.[教育](https://github.com/CCPProject/Analysis/blob/main/Education/Education.md)
 ###### 2.[经济](https://github.com/CCPProject/Analysis/blob/main/Economy/Economy.md)
 ###### 3.媒体与宣传
 
-#### 通过匿名货币资助分析的途径
-#### 想要做出贡献？
+### 通过匿名货币资助分析的途径
+### 想要做出贡献？
 ##### 请在Discussions 讨论区联系我们
