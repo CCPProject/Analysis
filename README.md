@@ -6,7 +6,7 @@
 
 ##### 分析领域 
 ###### 1.[教育](https://github.com/CCPProject/Analysis/blob/main/Education/Education.md)
-###### 2.经济
+###### 2.[经济](https://github.com/CCPProject/Analysis/blob/main/Economy/Economy.md)
 
 
 #### 通过匿名货币资助分析的途径
