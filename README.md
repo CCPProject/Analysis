@@ -5,7 +5,7 @@
 
 
 ##### 分析领域 
-###### 1.教育
+###### 1.[教育](https://github.com/CCPProject/Analysis/blob/main/Education/Education.md)
 ###### 2.经济
 
 
